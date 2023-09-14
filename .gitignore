@@ -4,3 +4,4 @@ Scripts
 share
 .ipynb_checkpoints
 pyvenv.cfg
+*.csv
